@@ -125,7 +125,7 @@ in the PowerShell window to stop the server.
 ## ⚡ Quick Tips
 
 * 🔁 Change port → Edit `$Port`
-* 🔒 Restrict to local machine → Use `127.0.0.1`
+* 🔒 Restrict to local machine → Use 127.0.0.1 (Note: On Windows, binding to 0.0.0.0 may be blocked by firewall rules unless explicitly allowed).
 * ⌨️ Use ↑ arrow → Recall previous commands
 
 ---
